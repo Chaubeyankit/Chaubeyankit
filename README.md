@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning Full stack development with Node JS and React JS<br>
 
+<img align = "right" alt = "code it up" width="300"  src = "https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chaubeyankit&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chaubeyankit&theme=dark&hide_border=false)<br/><br/>
